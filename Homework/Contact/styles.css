@@ -1,0 +1,45 @@
+body{
+    background-color:burlywood;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: fantasy;
+    color: rgba(37, 83, 233, 0.863);
+
+}
+img{
+    border-radius: 50%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color:maroon;
+
+}
+h2{
+    text-align: center;
+    font-family:fantasy;
+    font-size: 35px;
+    color:darkmagenta;
+    
+}
+ul{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:aqua;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: darkturquoise;
+    font-family:fantasy;
+    font-size: 90px;
+    text-align: center;
+}

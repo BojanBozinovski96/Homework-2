@@ -1,0 +1,36 @@
+body{
+    background-color:burlywood;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+   
+
+}
+ul{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:aqua;
+    list-style: none;
+    
+
+}
+a{
+    text-decoration: none;
+    color: darkturquoise;
+    font-family:fantasy;
+    font-size: 90px;
+  
+}
+p{
+    font-size:25px;
+    color:maroon;
+}
+h1{
+    text-align: center;
+    font-size:100px;
+    color: blue;
+    font-family:fantasy;
+}
